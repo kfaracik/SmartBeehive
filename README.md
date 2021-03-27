@@ -4,6 +4,6 @@ Projekt badawczo-naukowy „Smart Beehive” w ramach Koła Naukowego ABB obejmu
 
 ![alt text](https://github.com/Kris2236/SmartBeehive/blob/master/img/SmartBeehive_slajd_PNG.png)
 
-![alt text](https://github.com/Kris2236/SmartBeehive/blob/master/img/Logo_smartbeehive_v2.png)
+# -> [Film](https://youtu.be/LxwRzJX8CMg) <-
 
-# [Film](https://youtu.be/LxwRzJX8CMg)
+![alt text](https://github.com/Kris2236/SmartBeehive/blob/master/img/Logo_smartbeehive_v2.png)
