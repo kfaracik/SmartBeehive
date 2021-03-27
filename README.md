@@ -1,2 +1,2 @@
 # SmartBeehive
-electronic beehive management project
+Electronic beehive management project. More info: youtu.be/LxwRzJX8CMg
